@@ -4,6 +4,10 @@ Plugin that adds Cerveza Cristal.
 
 It is my third plugin, its not useful at all, but it may be fun.
 
+The Default ID of it is 99.
+
+It does not spawn naturally.
+
 You need to manually add the sound file to EXILED/Configs/CervezaCristal
 
 File: https://files.fm/u/kg3587k8v3
